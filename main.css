@@ -1,0 +1,17 @@
+*{
+	cursor: none;
+}
+body {
+	background-image: url('https://gandalfgq.github.io/gandalf.gif');
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-color: #24280d;
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	display: block;
+	overflow: hidden;
+}
+
